@@ -26,7 +26,9 @@ ssh level00@<IP> -p 4242
 - The goal at each level is either to find the password for the flag user or directly the password for the next level.
 - Switch user with `su flagXX`.
 - Run the `getflag` command to obtain the token for the next level.
-⚠️ Brute-forcing passwords is strictly forbidden. You must justify your methods.
+
+⚠️ Brute-forcing passwords is strictly forbidden. You must justify your methods.  
+⚠️ The .iso file is not provided. It is intended for use only within the school environment.
 
 ## 📖 Levels
 
